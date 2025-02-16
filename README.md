@@ -42,34 +42,6 @@ CSS3
 
 JavaScript (ES6+)
 
-📂 Estrutura do Repositório
-
-📁 matematica-ii-programacao
-│── 📂 aulas
-│   │── aula1-introducao-html
-│   │── aula2-css-basico
-│   │── aula3-javascript-basico
-│── 📂 projetos
-│   │── projeto1-calculadora
-│   │── projeto2-graficos-interativos
-│── 📜 README.md
-
-🚀 Como Utilizar
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/matematica-ii-programacao.git
-
-Acesse a pasta do projeto:
-
-cd matematica-ii-programacao
-
-Abra os arquivos .html no navegador para visualizar os exemplos.
-
-👨‍🏫 Contribuição
-
-Professores e alunos podem contribuir com sugestões, melhorias e novos exemplos. Para isso, basta abrir uma issue ou enviar um pull request.
-
 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.
